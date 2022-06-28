@@ -8,3 +8,5 @@ Task 3: cat /etc/passwd /etc/host command displays in both passwd and host
 
 Task 4:displaying the last 10 lines of a etc/passwd file using this command tail-10/etc/passwd
 
+Task 4:displaying the last 10 lines of a etc/passwd file using this command tail-10/etc/passwd
+
