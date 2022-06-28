@@ -10,3 +10,5 @@ Task 4:displaying the last 10 lines of a etc/passwd file using this command tail
 
 Task 4:displaying the last 10 lines of a etc/passwd file using this command tail-10/etc/passwd
 
+Task 4: displaying the last 10 lines of etc/passwd using tail -10 /etc/passwd command
+
